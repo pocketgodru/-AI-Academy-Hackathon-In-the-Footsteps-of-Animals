@@ -6,6 +6,7 @@
 В качестве моделей мы выбрали модели [sam2.1_hiera_base_plus](https://github.com/facebookresearch/sam2) и модель [detectron2](https://github.com/facebookresearch/detectron2/blob/main/configs/Misc/cascade_mask_rcnn_X_152_32x8d_FPN_IN5k_gn_dconv.yaml) с основой cascade_mask_rcnn_X_152_32x8d_FPN_IN5k_gn_dconv
 
 Обучение sam2.1 длилось около 11-12 часов
+
 Обучение detectron2 в сумме заняло около 25 часов основное обучение и 8 до обучения 
 
 <br>
